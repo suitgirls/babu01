@@ -8,7 +8,10 @@ h1 {color:#FFDFD3;background-color:#957DAD}
 h2 {color:#FEC8D8;}
 a {color:#E0BBE4}
 
-nav {background-color: #d291bc;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: #d291bc;}
 nav a {color: #FEC8D8;}
 nav {color:white;}
 nav a:hover {color:white;}
